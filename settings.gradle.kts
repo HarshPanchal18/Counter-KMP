@@ -17,3 +17,6 @@ dependencyResolutionManagement {
 rootProject.name = "Counter-KMP"
 include(":androidApp")
 include(":shared")
+include(":iosApp")
+include(":web")
+include(":desktop")
